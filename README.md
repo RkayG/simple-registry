@@ -1,8 +1,8 @@
 ## Preview
-[Register](preview_image/register-img.png)
+![register image](preview_image/register-img.png)
 
 ## Description
-This project is a simple dApp that sets and update the name and age of an entity.
+This project is a simple dApp that registers the name and age of an entity.
 
 ## Features
 The client side contains two form fields requesting for the name and age of a user. Once entered it asks the user validates with their metamask wallet
