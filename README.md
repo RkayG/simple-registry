@@ -1,5 +1,6 @@
 ## Preview
 ![register-img](preview-image/register-img.png)
+![alt text](image.png)
 
 ## Description
 This project is a simple dApp that registers the name and age of an entity.
